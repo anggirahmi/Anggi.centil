@@ -10,5 +10,6 @@ int main(){
 	double JumlahBoxP,BiayaP, BiayaPG, totalB;
 	
 	cout <<"Luas Rumah		:"<<LuasRumah<<" m2"<<endl;
+	cout <<"Luas 1 Box Parket	:"<<Luas1Box<<" m2"<<endl;
 	
 }
